@@ -1,5 +1,5 @@
 networks:
-  expense:{} #expense network will be created with bridge driver
+  expense: {} #expense network will be created with bridge driver
 volumes:
   mysql:
 services:
